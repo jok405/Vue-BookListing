@@ -4,6 +4,8 @@
 
 <script>
 export default {
+    name: BookForm,
+    props: ['books']
     
 }
 </script>
